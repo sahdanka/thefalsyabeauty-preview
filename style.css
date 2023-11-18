@@ -189,7 +189,7 @@ header section .content {
 header section .content h1 {
   font-size: 37px;
   transition: 1s linear;
-  color: palevioletred;
+  color: bisque;
 }
 
 header section .content p {
